@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prashanth</h1>
-<h3 align="center">A passionate Engineer from India.</h3>
+<h3 align="center">Engineer working on intelligent systems, AI architectures, and scalable software.</h3>
 
-- 🔭 I’m currently working on **Developer-First Secure Access Platform**
+- 🔭 I’m currently working on **Developer-First Secure Access Platform with AI-powered security enhancements**
 
-- 🌱 I’m currently learning **Go, Computer Networks, Operating Systems and Applied ML**
+- 🌱 I’m currently learning **Go, advanced ML architectures, deep learning, reinforcement learning, and AI systems design**
 
-- 👯 I’m looking to collaborate on **AI-driven backend systems, infra tooling, and applied ML for systems problems**
+- 👯 I’m looking to collaborate on **AI/ML research projects, intelligent backend systems, and applied ML for real-world problems**
 
-- 🤝 I’m looking for help with **Distributed systems, applied ML in production and system observability**
+- 🤝 I’m looking for help with **large-scale ML deployment, MLOps, and distributed AI systems**
 
 - 👨‍💻 All of my projects are available at [https://prashanths-portfolio.vercel.app/](https://prashanths-portfolio.vercel.app/)
 
-- 💬 Ask me about **Backend systems, networking, applied ML, infra-aware AI design**
+- 💬 Ask me about **backend systems, machine learning, neural networks, AI system design**
 
 - 📫 How to reach me **prashanths272005@gmail.com**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prashanth_200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashanth_200" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashanths27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashanths27/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prashanths27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashanths27/" height="30" width="40" /></a>
 <a href="https://kaggle.com/prashanth134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prashanth134" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prashanth_012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashanth_012" height="30" width="40" /></a>
 </p>
