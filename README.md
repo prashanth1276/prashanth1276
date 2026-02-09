@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prashanth</h1>
-<h3 align="center">Engineer working on intelligent systems, AI architectures, and scalable software.</h3>
+<h3 align="center">Engineer focused on building AI-native security systems and intelligent infrastructure at the runtime and systems layer.</h3>
 
-- 🔭 I’m currently working on **Developer-First Secure Access Platform with AI-powered security enhancements**
+- 🔭 I’m currently working on **AI-native cybersecurity infrastructure with a focus on runtime intelligence, adaptive threat detection and secure execution environments**
 
-- 🌱 I’m currently learning **Go, advanced ML architectures, deep learning, reinforcement learning, and AI systems design**
+- 🌱 I’m training deeply in **machine learning for security, deep learning, reinforcement learning and systems-aware AI for infrastructure-level decision making**
 
-- 👯 I’m looking to collaborate on **AI/ML research projects, intelligent backend systems, and applied ML for real-world problems**
+- 👯 I’m open to collaborating on **AI for cybersecurity, intelligent system monitoring, anomaly detection and security-oriented ML research**
 
-- 🤝 I’m looking for help with **large-scale ML deployment, MLOps, and distributed AI systems**
+- 🤝 I’m actively learning about **production ML, MLOps for security workloads and distributed intelligent systems**
 
 - 👨‍💻 All of my projects are available at [https://prashanths-portfolio.vercel.app/](https://prashanths-portfolio.vercel.app/)
 
-- 💬 Ask me about **backend systems, machine learning, neural networks, AI system design**
+- 💬 Ask me about **AI for security, anomaly detection, ML system design and intelligent infrastructure**
 
 - 📫 How to reach me **prashanths272005@gmail.com**
 
