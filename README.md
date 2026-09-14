@@ -17,7 +17,7 @@
 
 <h3 align="left">Featured Project:</h3>
 
-- 🧠 **[spatial-memory-agent](https://github.com/prashanth1276/spatial-memory-agent)** — Confidence-weighted spatial scene graph for an embodied agent, with multi-sample verification and failure recovery. Evaluated over 6,400 runs across 5 policies, 4 scenarios, and 2 noise models. *Python, NumPy, NetworkX, OpenCV.*
+- 🧠 **[reliable-spatial-memory](https://github.com/prashanth1276/reliable-spatial-memory)** — Embodied agent with a confidence-weighted spatial scene graph, multi-sample verification policy, and CLIP-based language grounding. Evaluated over 7,720 runs across 5 policies, 4 scenarios, 2 noise models, and a 4-policy language ablation. *Python, NumPy, NetworkX, OpenCV, CLIP, spaCy.*
 
 <h3 align="left">Research:</h3>
 
