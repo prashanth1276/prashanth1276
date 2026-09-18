@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashanth</h1>
-<h3 align="center">AI/ML Engineer & Researcher focused on spatial intelligence and reliable memory for embodied agents.</h3>
+<h3 align="center">AI/ML Engineer & Researcher — building reliable spatial intelligence for embodied agents and production ML systems.</h3>
 
 - 🎓 **B.E. Information Science & Engineering** — focused on AI/ML and intelligent systems
 
