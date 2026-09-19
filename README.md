@@ -18,7 +18,7 @@
 <h3 align="left">Featured Project:</h3>
 
 - 🧠 **[reliable-spatial-memory](https://github.com/prashanth1276/reliable-spatial-memory)** — Embodied agent with a confidence-weighted spatial scene graph, multi-sample verification policy, and CLIP-based language grounding. Evaluated over 7,720 runs across 5 policies, 4 scenarios, 2 noise models, and a 4-policy language ablation. *Python, NumPy, NetworkX, OpenCV, CLIP, spaCy.*
-- 🚀 **[production-ml-service](https://github.com/prashanth1276/production-ml-service)** — Production-shaped ML service with FAISS semantic search, Redis caching, and a backend-agnostic LLM client (mock / Groq / self-hosted). Ships with a retrieval evaluation harness (NDCG@5 = 0.895), Prometheus metrics, structured logging, a 5-container Docker Compose stack, and a full-stack CI smoke test. *Python, FastAPI, FAISS, Redis, MongoDB, Docker, Prometheus.*
+- 🚀 **[production-ml-service](https://github.com/prashanth1276/production-ml-service)** — Production-shaped ML service with FAISS semantic search, Redis caching, and a backend-agnostic LLM client (mock / Groq / self-hosted). Ships with a retrieval evaluation harness across three architectures (dense, hybrid, hybrid+rerank: NDCG@5 = 0.922), Prometheus alert rules, structured logging, a 5-container Docker Compose stack, and a full-stack CI smoke test. *Python, FastAPI, FAISS, Redis, MongoDB, Docker, Prometheus.*
 
 <h3 align="left">Research:</h3>
 
